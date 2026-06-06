@@ -1,0 +1,17 @@
+# Credenciales y secretos — NUNCA subir
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+
+# Archivos locales de Claude
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Sistema
+.DS_Store
+Thumbs.db
+node_modules/
+__pycache__/
+*.pyc
