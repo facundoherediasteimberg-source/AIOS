@@ -1,6 +1,6 @@
 <div align="center">
 
-# Seneca AIOS
+# os-launcher
 
 **Convertí a Claude en tu Sistema Operativo de IA.**
 
@@ -38,8 +38,8 @@ Cada pieza del kit apunta a eso. Si algo no aporta a esa prueba, no entra.
 ## Arranque rápido
 
 ```bash
-git clone https://github.com/facundoherediasteimberg-source/AIOS.git mi-aios
-cd mi-aios
+git clone https://github.com/facundoherediasteimberg-source/os-launcher.git mi-os
+cd mi-os
 ```
 
 1. Abrí la carpeta en **Claude Code** (o cargá los archivos como **Proyecto de Claude** en claude.ai).
@@ -84,7 +84,7 @@ Lo que vas a construir, en orden. Cada capa se apoya en la anterior.
 ## Mapa del repo
 
 ```
-seneca-aios/
+os-launcher/
 ├── README.md
 ├── CLAUDE.md                  ← Tu manual operativo (lo completa /inicio)
 ├── LICENSE
